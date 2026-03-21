@@ -12,5 +12,5 @@
 
 3. Run the application:
    ```bash
-   python main.py
+   python step1.py
    ```
